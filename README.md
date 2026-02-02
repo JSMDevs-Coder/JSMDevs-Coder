@@ -38,8 +38,8 @@ and continuously improving my skills.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jahir_Sanmartin&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Jahir_Sanmartin&layout=compact&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JSMDevs-Coder&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JSMDevs-Coder&layout=compact&theme=radical)
 
 </div>
 
